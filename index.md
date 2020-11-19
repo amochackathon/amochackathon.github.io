@@ -1,4 +1,4 @@
-<p align="center">
+<p align="justify">
 <h1> Call to arms! </h1>
 <h1> We will award £1,000 to the final winner team! </h1> 
 </p>
