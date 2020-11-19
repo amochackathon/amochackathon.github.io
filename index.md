@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="http://www.bris.ac.uk/media-library/sites/engineering/research/cybersecurity/BCSG%20logo%20small.png">
+  <img width="650" height="265" src="http://www.bris.ac.uk/media-library/sites/engineering/research/cybersecurity/BCSG%20logo%20small.png">
 </p>
 <div align="center">
 <h1> Call to arms! </h1>
