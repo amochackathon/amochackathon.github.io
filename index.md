@@ -1,7 +1,4 @@
-
-<div align="center">
-
-# Call to arms!
-
+<p align="center">
+## Call to arms!
 ## We will award £1,000 to the final winner team!  
-</div>
+</p>
