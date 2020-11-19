@@ -1,6 +1,6 @@
-<p style="text-align: center;">
+<p align="center">
 <h1> Call to arms! </h1>
-<h1> We will award £1,000 to the final winner team! </h1> 
+<h1> We will award £1000 to the final winner team! </h1> 
 </p>
 
 The code and results will be evaluated.
