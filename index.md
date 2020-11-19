@@ -6,7 +6,6 @@
 <h1> CALL TO ARMS! </h1>
 <h1> £1000 will be awarded to the final winner team! </h1> 
 </div>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+&nbsp;
+&nbsp;
 The code and results will be evaluated.
