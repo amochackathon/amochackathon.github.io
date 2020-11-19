@@ -2,7 +2,7 @@
   <img width="650" height="265" src="http://www.bris.ac.uk/media-library/sites/engineering/research/cybersecurity/BCSG%20logo%20small.png">
 </p>
 <div align="center">
-<h1> Call to arms! </h1>
+<h1> CALL TO ARMS! </h1>
 <h1> We will award £1000 to the final winner team! </h1> 
 </div>
 
