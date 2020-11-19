@@ -3,4 +3,4 @@
 <h1> We will award £1,000 to the final winner team! </h1> 
 </p>
 
-## The code and results will be evaluated.
+The code and results will be evaluated.
