@@ -21,6 +21,6 @@ Teams will compete against each other on two data-driven cybercrime investigatio
 
 Teams will be asked to create a short report on their solution to both tasks, and will be judged by an expert panel of cybercrime and machine learning researchers. The winning team will receive a prize of £1,000.
 
-All teams' solutions will be credited and published as part of a shared task report
+All teams' solutions will be credited and published as part of a shared task report.
 
 
