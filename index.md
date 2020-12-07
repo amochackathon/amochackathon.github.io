@@ -4,7 +4,7 @@
 <br/><br/>
 <div align="center">
 <h1> CALL TO ARMS! </h1>
-<h1> £1000 will be awarded to the final winner team! </h1> 
+<h1> 3 Day Team Hackathon - Win £1000 Amazon Vouchers! </h1> 
 </div>
 <br/><br/>
 ### About this Event
